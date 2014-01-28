@@ -1,3 +1,6 @@
 [submodule "submod"]
 	path = submod
 	url = https://kieransenior@github.com/kieransenior/test.git
+[submodule "oooo"]
+	path = oooo
+	url = https://Kezzer@bitbucket.org/Kezzer/squarktalk.git

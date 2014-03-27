@@ -1,9 +1,0 @@
-[submodule "oooo"]
-	path = oooo
-	url = https://Kezzer@bitbucket.org/Kezzer/squarktalk.git
-[submodule "aaa"]
-	path = aaa
-	url = https://Kezzer@bitbucket.org/Kezzer/squarktalk.git
-[submodule "eee"]
-	path = eee
-	url = https://Kezzer@bitbucket.org/Kezzer/squarktalk.git
